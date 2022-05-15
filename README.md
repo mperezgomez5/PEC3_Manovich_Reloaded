@@ -1,3 +1,4 @@
+
 # METAVERSO
 
 ## INTRODUCCIÓN:
@@ -50,4 +51,9 @@ Ahora bien, dentro de este desarrollo, venta y promoción de productos, es neces
 
 En conclusión, el metaverso llegará para constituir nuestro futuro y aunque puede parecer terrorífico a nivel corporativo, será la herramienta para realizar la mayor parte de nuestro trabajo virtualmente. Y en cuanto a Manovich, si realmente llega a observar y a hacer una inmersión dentro de un metaverso avanzado, muy probablemente lo introduciría en su libro, incluso podría escribirlo estando dentro del metaverso, a infinitas opciones infinitas posibilidades.
 
-
+## **WEBGRAFÍA**
+[Video1](https://www.youtube.com/watch?v=x000E3ziMhs&ab_channel=XatakaTV)
+[Video2](https://www.youtube.com/watch?v=R8mj1kTT4hk&t=101s&ab_channel=DWEspa%C3%B1ol)
+[Video3](https://www.youtube.com/watch?v=iOPjP9dFIfI&t=564s&ab_channel=Newtral)
+[Web1](https://www.cyberclick.es/numerical-blog/que-es-el-metaverso-de-facebook-y-el-funcionamiento-de-esta-herramienta)
+[Web2](https://www.xataka.com/basics/que-metaverso-que-posibilidades-ofrece-cuando-sera-real)
